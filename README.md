@@ -18,16 +18,16 @@ This project is open for contribution, if you can do something cool in Java 8, p
 
 # Recent Additions
 
-## Showed examples of Working with resources in java 8 using lambdas
+* Showed examples of Working with resources in java 8 using lambdas
 
-## Introduced exception handling in Lambdas
+* Introduced exception handling in Lambdas
 
-## Creating fluent interfaces using Lambda expressions
+* Creating fluent interfaces using Lambda expressions
 
-## Showing implementations of default methods in interfaces added in Java 8
+* Showing implementations of default methods in interfaces added in Java 8
 
-## Implemented Decorator pattern using Java 8 Lambdas
+* Implemented Decorator pattern using Java 8 Lambdas
 
-## Added examples of how to use Lambda for delegating
+* Added examples of how to use Lambda for delegating
 
-## Added strategy pattern example in Java 8
+* Added strategy pattern example in Java 8
