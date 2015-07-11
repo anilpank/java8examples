@@ -1,4 +1,4 @@
-package org.anon;
+package org.anon.designpatterns;
 
 import java.math.BigDecimal;
 import java.util.function.Function;

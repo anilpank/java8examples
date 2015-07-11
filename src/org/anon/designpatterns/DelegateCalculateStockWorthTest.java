@@ -1,4 +1,4 @@
-package org.anon;
+package org.anon.designpatterns;
 
 import static org.junit.Assert.assertEquals;
 

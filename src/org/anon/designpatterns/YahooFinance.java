@@ -1,4 +1,4 @@
-package org.anon;
+package org.anon.designpatterns;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

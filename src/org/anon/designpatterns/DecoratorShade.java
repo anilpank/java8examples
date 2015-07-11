@@ -1,4 +1,4 @@
-package org.anon;
+package org.anon.designpatterns;
 
 import java.awt.Color;
 import java.util.function.Consumer;

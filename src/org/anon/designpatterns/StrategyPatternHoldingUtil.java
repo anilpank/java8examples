@@ -1,10 +1,12 @@
-package org.anon;
+package org.anon.designpatterns;
 
 import java.util.Arrays;
 import java.util.List;
 import java.util.function.Predicate;
 
-import org.anon.Holding.HoldingType;
+import org.anon.designpatterns.Holding.HoldingType;
+
+
 
 /**
  * This class demonstrates on how to do separating of concerns with Lambda expressions.

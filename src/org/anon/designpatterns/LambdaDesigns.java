@@ -1,4 +1,4 @@
-package org.anon;
+package org.anon.designpatterns;
 
 public class LambdaDesigns {
 
