@@ -16,18 +16,18 @@ In class org.anon.LambdaDesigns.java, I would be exploring the design patterns t
 # Future
 This project is open for contribution, if you can do something cool in Java 8, please fork and then create a pull request. I'll merge those changes here. A lot is at stake here. We need to compete with Scala, Pun Intended. :)
 
-Recent Additions
+# Recent Additions
 
-# Showed examples of Working with resources in java 8 using lambdas
+## Showed examples of Working with resources in java 8 using lambdas
 
-# Introduced exception handling in Lambdas
+## Introduced exception handling in Lambdas
 
-# Creating fluent interfaces using Lambda expressions
+## Creating fluent interfaces using Lambda expressions
 
-# Showing implementations of default methods in interfaces added in Java 8
+## Showing implementations of default methods in interfaces added in Java 8
 
-# Implemented Decorator pattern using Java 8 Lambdas
+## Implemented Decorator pattern using Java 8 Lambdas
 
-# Added examples of how to use Lambda for delegating
+## Added examples of how to use Lambda for delegating
 
-# Added strategy pattern example in Java 8
+## Added strategy pattern example in Java 8
