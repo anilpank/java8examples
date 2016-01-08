@@ -31,3 +31,6 @@ This project is open for contribution, if you can do something cool in Java 8, p
 * Added examples of how to use Lambda for delegating
 
 * Added strategy pattern example in Java 8
+
+# [Bespoke Solutions](http://www.ojblabs.com)
+ 
