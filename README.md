@@ -33,4 +33,5 @@ This project is open for contribution, if you can do something cool in Java 8, p
 * Added strategy pattern example in Java 8
 
 # [Bespoke Solutions](http://www.ojblabs.com)
+Brought to you by [OjbLabs](http://www.ojblabs.com)
  
